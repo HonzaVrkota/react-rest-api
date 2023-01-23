@@ -4,13 +4,9 @@
 
 Nakolonuj projekt
 
-bash
-
 ```
 npm install
 ```
-
-bash
 
 ```
 npm run dev
